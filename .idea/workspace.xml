@@ -4,22 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85672576-e3ff-43e0-91c8-ce10a2c88808" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/JavaFXLabelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/JavaFXSkelg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/thejedifxpack/hello-view.fxml" afterDir="false" />
+    <list default="true" id="85672576-e3ff-43e0-91c8-ce10a2c88808" name="Changes" comment="May the force be with you!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/ComboBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/EffectsAndTransformsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/MenuDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/ScrollPaneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/TextFieldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/TreeViewDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/CheckboxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/CheckboxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/ListViewDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/ListViewDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="package-info" />
         <option value="JavaFXApplication" />
       </list>
     </option>
@@ -59,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_directory_selection": "/Applications/SceneBuilder.app/TheJediFXPack/src/main/java/com/example/thejedifxpack",
@@ -66,13 +63,16 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.6531414",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.JavaFXLabelDemo">
-    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="19" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.HelloApplication" />
+  <component name="RunManager" selected="Application.ScrollPaneDemo">
+    <configuration name="CheckboxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.CheckboxDemo" />
       <module name="TheJediFXPack" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaFXLabelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.JavaFXLabelDemo" />
+    <configuration name="ComboBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.ComboBoxDemo" />
       <module name="TheJediFXPack" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaFXSkelg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoolPackFX.JavaFXSkelg" />
+    <configuration name="ListViewDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.ListViewDemo" />
       <module name="TheJediFXPack" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoolPackFX.*" />
+          <option name="PATTERN" value="com.example.thejedifxpack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,8 +110,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.example.thejedifxpack.JavaFXSkelg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.JavaFXSkelg" />
+    <configuration name="ScrollPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.ScrollPaneDemo" />
+      <module name="TheJediFXPack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.thejedifxpack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextFieldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.TextFieldDemo" />
       <module name="TheJediFXPack" />
       <extension name="coverage">
         <pattern>
@@ -125,10 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaFXLabelDemo" />
-        <item itemvalue="Application.com.example.thejedifxpack.JavaFXSkelg" />
-        <item itemvalue="Application.HelloApplication" />
-        <item itemvalue="Application.JavaFXSkelg" />
+        <item itemvalue="Application.ScrollPaneDemo" />
+        <item itemvalue="Application.TextFieldDemo" />
+        <item itemvalue="Application.ComboBoxDemo" />
+        <item itemvalue="Application.ListViewDemo" />
+        <item itemvalue="Application.CheckboxDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +155,64 @@
       <option name="presentableId" value="Default" />
       <updated>1697023469752</updated>
     </task>
+    <task id="LOCAL-00001" summary="May the force be with you!">
+      <created>1697273980713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697273980713</updated>
+    </task>
+    <task id="LOCAL-00002" summary="May the force be with you!">
+      <created>1697568795308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697568795309</updated>
+    </task>
+    <task id="LOCAL-00003" summary="May the force be with you!">
+      <created>1697568807541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697568807541</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="May the force be with you!" />
+    <option name="LAST_COMMIT_MESSAGE" value="May the force be with you!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/LabelImageDemo.java</url>
+          <line>17</line>
+          <properties class="com.example.thejedifxpack.LabelImageDemo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/LabelImageDemo.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
