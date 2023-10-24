@@ -2,18 +2,19 @@ package com.example.thejedifxpack;
 // Demonstrate Menus
 import javafx.application.*;
 import javafx.scene.*;
-import javafx.scene.image.ImageView;
+import javafx.scene.image.*;
 import javafx.stage.*;
 import javafx.scene.layout.*;
 import javafx.scene.control.*;
 import javafx.event.*;
-//import javafx.geometry.*;
+import javafx.geometry.*;
 import javafx.scene.input.*;
 
 
 public class MenuDemo extends Application {
     Label response;
-    public static void main(String[] args) {
+    public static void main(String... args) {
+
         launch(args);
     }
 
@@ -22,7 +23,7 @@ public class MenuDemo extends Application {
         // Give the stage a title.
         myStage.setTitle("Demonstrate Menus");
 // Use a BorderPane for the root node.
-        BorderPane rootNode = new BorderPane();
+      final BorderPane rootNode = new BorderPane();
 // Create a scene.
         Scene myScene = new Scene(rootNode, 300, 300);
 // Set the scene on the stage.
@@ -111,15 +112,18 @@ public class MenuDemo extends Application {
         helpMenu.getItems().add(about);
 // Add Help menu to the menu bar.
         mb.getMenus().add(helpMenu);
-// Create one event handler that will handle menu action events.
+
+        // Create one event handler that will handle menu action events.
         EventHandler<ActionEvent> MEHandler =
                 ae -> {
                     String name = ((MenuItem)ae.getTarget()).getText();
-// If Exit is chosen, the program is terminated.
+
+                    // If Exit is chosen, the program is terminated.
                     if(name.equals("Exit")) Platform.exit();
                     response.setText( name + " selected");
                 };
-// Set action event handlers for the menu items.
+
+        // Set action event handlers for the menu items.
         open.setOnAction(MEHandler);
         close.setOnAction(MEHandler);
         save.setOnAction(MEHandler);
@@ -132,17 +136,81 @@ public class MenuDemo extends Application {
         reset.setOnAction(MEHandler);
         about.setOnAction(MEHandler);
 
-
         // Add keyboard accelerators for the File menu.
         open.setAccelerator(KeyCombination.keyCombination("shortcut+O"));
         close.setAccelerator(KeyCombination.keyCombination("shortcut+C"));
         save.setAccelerator(KeyCombination.keyCombination("shortcut+S"));
         exit.setAccelerator(KeyCombination.keyCombination("shortcut+E"));
 
-// Add the menu bar to the top of the border pane and
-// the response label to the center position.
+      // Define a toolbar. First, create toolbar items.
+      Button btnSet = new Button("Set Breakpoint",
+              new ImageView("setBP.gif"));
+      Button btnClear = new Button("Clear Breakpoint",
+              new ImageView("clearBP.gif"));
+      Button btnResume = new Button("Resume Execution",
+              new ImageView("resume.gif"));
+// Now, turn off text in the buttons.
+      btnSet.setContentDisplay(ContentDisplay.GRAPHIC_ONLY);
+      btnClear.setContentDisplay(ContentDisplay.GRAPHIC_ONLY);
+      btnResume.setContentDisplay(ContentDisplay.GRAPHIC_ONLY);
+      // Set tooltips.
+      btnSet.setTooltip(new Tooltip("Set a breakpoint."));
+      btnClear.setTooltip(new Tooltip("Clear a breakpoint."));
+      btnResume.setTooltip(new Tooltip("Resume execution."));
+
+      // Create the toolbar.
+      ToolBar tbDebug = new ToolBar(btnSet, btnClear, btnResume);
+      // Create a handler for the toolbar buttons.
+      EventHandler<ActionEvent> btnHandler = ae -> response.setText(((Button)ae.getTarget()).getText());
+      // Set the toolbar button action event handlers.
+      btnSet.setOnAction(btnHandler);
+      btnClear.setOnAction(btnHandler);
+      btnResume.setOnAction(btnHandler);
+
+        // Create the context menu items
+        MenuItem cut = new MenuItem("Cut");
+        MenuItem copy = new MenuItem("Copy");
+        MenuItem paste = new MenuItem("Paste");
+
+        // Create a context (i.e., popup) menu that shows edit options.
+        final ContextMenu editMenu = new ContextMenu(cut, copy, paste);
+
+        //Add event handlers for the popup
+        cut.setOnAction(MEHandler);
+        copy.setOnAction(MEHandler);
+        paste.setOnAction(MEHandler);
+
+        // Add the context menu to the entire scene graph.
+        rootNode.setOnContextMenuRequested(
+                ae -> {
+// Popup menu at the location of the right click.
+                    editMenu.show(rootNode, ae.getScreenX(), ae.getScreenY());
+                });
+
+        // Create a text field and set its column width to 20.
+        TextField tf = new TextField();
+        tf.setPrefColumnCount(20);
+
+        // Add the context menu to the textfield.
+        tf.setContextMenu(editMenu);
+
+        // Add the menu bar to the top of the border pane and
+        // the response label to the center position.
         rootNode.setTop(mb);
-        rootNode.setCenter(response);
+        //rootNode.setCenter(response);
+
+        // Create a flow pane that will hold both the response
+        // label and the text field.
+        FlowPane fpRoot = new FlowPane(10, 10);
+        // Center the controls in the scene.
+        fpRoot.setAlignment(Pos.CENTER);
+        // Add both the label and the text field to the flow pane.
+        fpRoot.getChildren().addAll(response, tf);
+        // Add the flow pane to the center of the border layout.
+        rootNode.setCenter(fpRoot);
+        rootNode.setBottom(tbDebug);
+
+
 // Show the stage and its scene.
         myStage.show();
     }
