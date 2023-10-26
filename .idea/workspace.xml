@@ -5,197 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85672576-e3ff-43e0-91c8-ce10a2c88808" name="Changes" comment="May the force be with you!">
-      <change afterPath="$PROJECT_DIR$/AboutIcon.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/BoxDemo6.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/BoxDemo7.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/CommandLine.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/DecisionMaker/AskMe.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/DecisionMaker/Question.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/DecisionMaker/SharedConstants.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/DemoShipment.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/MyPack/AccountBalance.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/MyPack/Balance.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/NewStack.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/OverloadBox.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/OverloadBox2.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/Recursion.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/StackTest/DyanStack.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/StackTest/FixedStack.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/StackTest/TestStack.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/Streets/AnotherClient.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/Streets/Callback.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/Streets/Client.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/Streets/Telephone.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/TestStack.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/ThreadPacks/CurrentThreadDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/TryTests/MethNestTry.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/p1/Demo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/p1/Derived.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/p1/Protection.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/p1/SamePackage.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/p2/Demo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/p2/GetBalance.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/p2/OtherPackage.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/p2/Pretoria.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/AboutIcon.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/Hourglass.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/SceneBuilder-21.0.0-aarch64.dmg" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/Siviwe_1.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/Siviwe_2.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/Siviwe_3.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/Stopwatch.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/analog.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/clear.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/clear2.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/clear3.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/digital.png" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/JavaFXActivities" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.base/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.base/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.base/LICENSE" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.controls/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.controls/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.controls/LICENSE" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.fxml/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.fxml/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.fxml/LICENSE" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.graphics/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.graphics/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.graphics/LICENSE" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.graphics/jpeg_fx.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.graphics/mesa3d.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.media/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.media/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.media/LICENSE" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.media/directshow.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.media/glib.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.media/gstreamer.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.media/libffi.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.swing/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.swing/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.swing/LICENSE" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.web/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.web/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.web/LICENSE" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.web/icu_web.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.web/libxml2.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.web/libxslt.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/legal/javafx.web/webkit.md" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/javafx-swt.jar" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/javafx.base.jar" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/javafx.controls.jar" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/javafx.fxml.jar" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/javafx.graphics.jar" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/javafx.media.jar" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/javafx.properties" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/javafx.swing.jar" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/javafx.web.jar" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libdecora_sse.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libfxplugins.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libglass.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libglib-lite.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libgstreamer-lite.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libjavafx_font.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libjavafx_iio.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libjfxmedia.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libjfxmedia_avf.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libjfxwebkit.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libprism_common.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libprism_es2.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/lib/libprism_sw.dylib" afterDir="false" />
-      <change afterPath="$PATH_TO_FX$/src.zip" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/openjfx-21_osx-aarch64_bin-sdk.zip" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/resume.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/resume2.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/resume3.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/settings.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/settings2.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/settings3.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/AddClient.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/AddServer.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/AddServerImpl.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/AddServerIntf.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/BarDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/CDLDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/CallableDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/DateTimeDemo2.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/DateTimeDemo3.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/DateTimeDemo4.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/DialogDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/DoubleBuffer.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/EventDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/ExgrDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/FJExperiment.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/FileDialogDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/ForkJoinDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/GridBagDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/HistoGrab.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/ImageFilterDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JButtonDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JCheckBoxDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JComboBoxDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JLabelDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JListDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JRadioButtonDemo.class" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JRadioButtonDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JScrollPaneDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JTabbedPaneDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JTableDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JTextFieldDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JToggleButtonDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JTreeDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/JavaFXSkel.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/LoadedImage.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/LockDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/MemoryImageGenerator.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/MenuDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/MenuDemo2.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/MenuDemoApp.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/MySwingApplet$1.class" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/MySwingApplet$2.class" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/MySwingApplet$3.class" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/MySwingApplet.class" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/MySwingApplet.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/PaintDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/PhaserDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/PhaserDemo2.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/Q.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/RecurTaskDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/ReflectionDemo1.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/ReflectionDemo2.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/RegExpr8.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/RegExpr9.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/SemDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/SimpExec.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/SimpleDateFormatDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/SimpleImageLoad.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo10.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo2.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo3.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo4.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo5.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo6.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo7.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo8.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/StreamDemo9.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/SwingDemo.class" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/SwingDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/TileImage.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/TimeFormatDemo.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/CoolPack/TrackedImageLoad.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheJediPack/src/DateFormatDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/MenuDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/MenuDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/thejedifxpack/package-info.java" beforeDir="false" />
-      <change beforePath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava" beforeDir="false" afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava" afterDir="false" />
-      <change beforePath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/out/production/Sample Java/Box.class" beforeDir="false" />
-      <change beforePath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/out/production/Sample Java/BoxDemo.class" beforeDir="false" afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/out/production/Sample Java/BoxDemo.class" afterDir="false" />
-      <change beforePath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/BoxDemo.java" beforeDir="false" afterPath="$USER_HOME$/Documents/GitHub/IdeaProjects/TheApprenticePack/SampleJava/src/BoxDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +50,7 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;/Applications/SceneBuilder.app/TheJediFXPack/src/main/java/com/example/thejedifxpack&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Applications/SceneBuilder.app/TheJediFXPack&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.5361596&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
@@ -252,7 +62,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.MenuDemo">
+  <component name="RunManager" selected="Application.MenuDemoFinal">
     <configuration name="ComboBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.ComboBoxDemo" />
       <module name="TheJediFXPack" />
@@ -293,10 +103,11 @@
       </method>
     </configuration>
     <configuration name="MenuDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.MenuDemo" />
       <module name="TheJediFXPack" />
+      <option name="VM_PARAMETERS" value="--module-path /path/to/javafx-sdk-11/lib --add-modules javafx.controls,javafx.fxml " />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.thejedifxpack.*" />
@@ -307,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScrollPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.ScrollPaneDemo" />
+    <configuration name="MenuDemoFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.thejedifxpack.MenuDemoFinal" />
       <module name="TheJediFXPack" />
       <extension name="coverage">
         <pattern>
@@ -321,19 +132,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MenuDemoFinal" />
       <item itemvalue="Application.ImageDemo" />
       <item itemvalue="Application.DirectDrawDemo" />
       <item itemvalue="Application.ComboBoxDemo" />
       <item itemvalue="Application.MenuDemo" />
-      <item itemvalue="Application.ScrollPaneDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MenuDemoFinal" />
         <item itemvalue="Application.MenuDemo" />
         <item itemvalue="Application.ImageDemo" />
         <item itemvalue="Application.DirectDrawDemo" />
         <item itemvalue="Application.ComboBoxDemo" />
-        <item itemvalue="Application.ScrollPaneDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697881256471</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="May the force be with you!">
+      <created>1698167804411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698167804411</updated>
+    </task>
+    <task id="LOCAL-00006" summary="May the force be with you!">
+      <created>1698171864504</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698171864504</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
